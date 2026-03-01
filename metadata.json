@@ -1,0 +1,5 @@
+{
+  "name": "SerDes Research Toolkit for Kids",
+  "description": "An interactive, fun educational tool for middle schoolers to learn about high-speed data transmission (SerDes), PAM signaling, and signal integrity using real-time simulation.",
+  "requestFramePermissions": []
+}
